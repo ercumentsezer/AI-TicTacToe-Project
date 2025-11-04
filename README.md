@@ -22,8 +22,4 @@ It's a classic Tic-Tac-Toe game where you play against an unbeatable computer AI
 
 ---
 
-### Project Information
 
-* **Student Name:** Ercüment Sezer KARTAL
-* **Student ID:** 230709020
-* **GitHub:** https://github.com/ercumentsezer
